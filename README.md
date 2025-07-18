@@ -1,6 +1,6 @@
 # 🧠 Research Assistant
 
-A research assistant that can answer general questions by retrieving information from the web (via SerpAPI) **or** perform Retrieval‑Augmented Generation (RAG) over user‑uploaded PDF documents. Responses are synthesized by OpenAI’s LLM, formatted with clear headings, lists, and citations, and can the answer can be be downloaded as a PDF report. Used APA format to define the structure of the report.
+A research assistant that can answer general questions by retrieving information from the web (via SerpAPI) and perform Retrieval‑Augmented Generation (RAG) over user‑uploaded PDF documents. Responses are synthesized by OpenAI’s LLM, formatted with clear headings, lists, and citations, and can the answer can be be downloaded as a PDF report. Used APA format to define the structure of the report.
 
 ---
 
