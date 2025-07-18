@@ -26,5 +26,28 @@ RESEARCH-ASSISTANT-AGENT/
 ├── web_retriever.py # SerpAPIWrapper 
 ├── doc_retriever.py # RAG -> Summarizer
 ├── extractor.py # To extract key insights from the web retriever to pass it to the summarizer
-└── summarizer.py # Summarizes in the desired format 
+└── summarizer.py # Summarizes in the desired format
+
+##Getting Started
+
+Follow these steps to run the Research Assistant
+
+```bash
+git clone https://github.com/rvnisha/Research_Assistant.git
+cd Research_Assistant_Agent
+
+```bash
+# Create & activate a virtual environment
+python -m venv vename
+vename\Scripts\activate
+
+# Install required Python packages
+pip install -r requirements.txt
+
+```bash
+#Run the app
+python UI_interface.py
+The app will start on http://localhost:7860
+
+
 
