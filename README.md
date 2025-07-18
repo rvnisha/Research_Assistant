@@ -15,7 +15,7 @@ A research assistant that can answer general questions by retrieving information
 
 ## 📁 Project Structure
 ```text
-RESEARCH-ASSISTANT-AGENT/
+Research_Assistant/
 ├── .env # your API keys
 ├── requirements.txt # required packages
 ├── main.py 
@@ -34,7 +34,7 @@ Follow these steps to run the Research Assistant
 
 ```bash
 git clone https://github.com/rvnisha/Research_Assistant.git
-cd Research_Assistant_Agent
+cd Research_Assistant
 ```
 
 ```bash
