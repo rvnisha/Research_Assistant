@@ -14,7 +14,7 @@ A research assistant that can answer general questions by retrieving information
 ---
 
 ## 📁 Project Structure
-
+```text
 RESEARCH-ASSISTANT-AGENT/
 ├── .env # your API keys
 ├── requirements.txt # required packages
