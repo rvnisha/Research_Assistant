@@ -27,7 +27,7 @@ RESEARCH-ASSISTANT-AGENT/
 ├── doc_retriever.py # RAG -> Summarizer
 ├── extractor.py # To extract key insights from the web retriever to pass it to the summarizer
 └── summarizer.py # Summarizes in the desired format
-
+```
 ##Getting Started
 
 Follow these steps to run the Research Assistant
